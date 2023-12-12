@@ -6,3 +6,6 @@
 ```python
 print("Hello World")
 ```
+- [ ] Complete Task #1
+- [ ] Complete Task #2
+- [ ] Fix Issue #36
